@@ -1,0 +1,8 @@
+{
+    "require": {
+        "hybridauth/hybridauth": "~3.0"
+    },
+    "config": {
+        "optimize-autoloader": true
+    }
+}
